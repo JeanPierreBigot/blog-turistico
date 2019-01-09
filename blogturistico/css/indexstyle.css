@@ -1,0 +1,24 @@
+/* CSS Document */
+/*DAR COLOR AL FONDO DEL BLOG DEL BLOG*/
+body
+{
+background-color:rgb(212,230,241);
+}
+/*DAR FORMATO A LA IMAGEN DEL BLOG*/
+.img1
+{
+width:200px;
+}
+/*DAR FORMATO A LAS IMAGENES DEL BLOG*/
+.img2
+{
+width:200px;
+}
+.img4
+{
+width:200px;
+}
+.imgprin
+{
+width:50px;
+}
